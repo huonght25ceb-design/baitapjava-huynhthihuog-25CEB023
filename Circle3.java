@@ -1,17 +1,17 @@
 package baitap4_1;
 
-public class Circle {
+public class Circle3 {
     private double radius = 1.0;
     private String color = "red";
 
-    public Circle() {
+    public Circle3() {
 
     }
-    public Circle(double radius) {
+    public Circle3(double radius) {
         this.radius = radius;
     }
 
-    public Circle(double radius, String color) {
+    public Circle3(double radius, String color) {
         this.radius = radius;
         this.color = color;
     }

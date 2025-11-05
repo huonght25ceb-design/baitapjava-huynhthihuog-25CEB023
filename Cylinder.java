@@ -1,6 +1,6 @@
 package baitap4_1;
 
-public class Cylinder extends Circle {
+public class Cylinder extends Circle3 {
     private double height = 1.0;
 
     public Cylinder() {
