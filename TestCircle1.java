@@ -1,6 +1,6 @@
 package baitap1_1;
 
-public class TestCircle {
+public class TestCircle1 {
     public static void main(String[]args) {
         Circle c1 = new Circle();
         Circle c2 = new Circle(2.5);
